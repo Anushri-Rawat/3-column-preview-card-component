@@ -34,7 +34,6 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/Anushri-Rawat/3-column-preview-card-component)
-- Live Site URL:(https://anushri-rawat.github.io/3-column-preview-card-component/)
 
 ## My process
 
